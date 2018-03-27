@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PizzaRecyclerview</string>
+    <string name="action_share">share</string>
+    <string name="action_create_order">create order</string>
+    <string-array name="title">
+        <item>Home</item>
+        <item>Pizzas</item>
+        <item>Pastas</item>
+    </string-array>
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <string name="action_settings">settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="topFrag">Pizza Top Fragment</string>
+</resources>
